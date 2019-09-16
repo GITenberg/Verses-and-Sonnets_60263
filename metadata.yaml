@@ -1,0 +1,27 @@
+_repo: Verses-and-Sonnets_60263
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2019-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcsh 'Sonnets, English'
+- !lcc 'PR'
+- GITenberg
+title: Verses and Sonnets
+url: http://www.gutenberg.org/ebooks/60263
